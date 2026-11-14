@@ -1,0 +1,9 @@
+# Never commit miner secrets or local runtime files
+miner.env
+signer
+session-keys/
+models/
+miner.json
+*.seed
+.DS_Store
+audit-key/
